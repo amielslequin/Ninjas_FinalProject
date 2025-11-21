@@ -10,21 +10,13 @@ The project is structured around several exercises and a core reproducibility no
 
 The following files are included in this project:
 
-| Role | Name| Contact/ |
+| Role | Name| Contact/GitHub |
 | :--- | :--- | :--- |
-| `Exercise#2_[Name].ipynb` | Analysis notebooks for **Exercise 2**. These typically cover initial data exploration, cleaning, and basic modeling attempts. | Yesterday |
-| `Exercise#3_[Name].ipynb` | Analysis notebooks for **Exercise 3**. These typically cover more advanced analysis, model comparison, or specific investigative tasks. | Yesterday |
-| `Ninjas_ReproducibilityNotebook.ipynb` | The core notebook demonstrating the complete pipeline, from data loading to final results, specifically focusing on **reproducibility best practices**. | 11 hours ago |
-| `amazon_eco-friendly_products.csv` | The primary dataset used for this project, containing information about eco-friendly products from Amazon. | 18 hours ago |
+| Leader | Carl Baustista | carlangelo.bautista@my.jru.edu |
+| Member | Joshua San Jose | joshua.sanjose@my.jru.edu |
+| Member | Amiel Lequin | amieldwayne.lequin@my.jru.edu |
+
 
 ---
 
-## How to Run the Notebooks
-
-To run these notebooks locally, you will need to have Python and Jupyter installed.
-
-### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/amielslequin/Ninjas_FinalProject.git](https://github.com/amielslequin/Ninjas_FinalProject.git)
-cd Ninjas_FinalProject
+Course: ITC C508 - 402I (Elective 4 : Deep Learning - Natural Language Processing) Institution/Semester: Jose Rizal University / 4th Year - 1st Semester
