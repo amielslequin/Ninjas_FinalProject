@@ -1,4 +1,4 @@
-## Ninjas_FinalProject: Data Science and Reproducibility
+## Ninjas_FinalProject
 
 ## Project Overview
 
