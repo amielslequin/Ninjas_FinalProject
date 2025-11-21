@@ -10,7 +10,7 @@ The project is structured around several exercises and a core reproducibility no
 
 The following files are included in this project:
 
-| File Name | Description | Last Modified |
+| Role | Name| Contact/ |
 | :--- | :--- | :--- |
 | `Exercise#2_[Name].ipynb` | Analysis notebooks for **Exercise 2**. These typically cover initial data exploration, cleaning, and basic modeling attempts. | Yesterday |
 | `Exercise#3_[Name].ipynb` | Analysis notebooks for **Exercise 3**. These typically cover more advanced analysis, model comparison, or specific investigative tasks. | Yesterday |
