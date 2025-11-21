@@ -1,14 +1,11 @@
-# 🥋 Ninjas_FinalProject: Data Science and Reproducibility
+##Ninjas_FinalProject: Data Science and Reproducibility
 
 ## Project Overview
 
-This repository holds the final project notebooks and associated data for a course/project on **[Insert Course Name or Project Theme Here]**. The primary focus is on **data analysis, machine learning [or other relevant field]**, and ensuring the **reproducibility** of our findings.
-
+This repository holds the final project notebooks and associated data for a course/project on ITE Elective 4. The primary focus is on **data analysis, machine learning**, and ensuring the **reproducibility** of our findings.
 The project is structured around several exercises and a core reproducibility notebook, as demonstrated by the files within this repository.
 
-## Files and Structure
-
-The following files are included in this project:
+#Group Members
 
 | Role | Name| Contact/GitHub |
 | :--- | :--- | :--- |
